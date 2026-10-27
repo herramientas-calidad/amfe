@@ -1,6 +1,6 @@
 # AMFE · Análisis Modal de Fallos y Efectos
 
-Aplicación web: **https://herramientas-calidad.github.io/amfe/** (versión 2026.13).
+Aplicación web: **https://herramientas-calidad.github.io/amfe/** (versión 2026.14).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para hacer, paso a paso y aprendiendo mientras se hace, el **Análisis Modal de Fallos y Efectos (AMFE)** de cualquier proceso sanitario.
 
